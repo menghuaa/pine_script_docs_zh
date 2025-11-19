@@ -12,3 +12,4 @@
 - [Kodify](https://kodify.net/tradingview-programming-articles)为初学者和经验丰富的程序员提供了有关各种主题的 TradingView 教程。主题包括绘图、警报、策略订单以及完整的示例指标和策略。
 - [Backtest Rookies](https://backtest-rookies.com/category/tradingview)发布了高质量的博客文章，重点关注在 Pine Script™ 中实现特定任务。
 - [您可以在StackOverflow](https://stackoverflow.com/questions/tagged/pine-script)`[pine-script]`上的标签中询问有关 Pine Script™ 编程的问题。
+- 我只是尝试一下修改好不好用！
